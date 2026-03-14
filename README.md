@@ -65,7 +65,7 @@ Prerequisites
 ToolVersionDownloadJava JDK21 LTSAdoptiumApache Maven3.9+maven.apache.orgMySQL Server8.0mysql.comVS CodeLatestcode.visualstudio.comGitLatestgit-scm.com
 Installation Steps
 1. Clone the repository
-bashgit clone https://github.com/your-username/ShopEase.git
+bashgit clone https://github.com/Sakshi-kamdi/ShopEase.git
 cd ShopEase
 2. Create the MySQL database
 sqlCREATE DATABASE shopease;
@@ -73,7 +73,7 @@ sqlCREATE DATABASE shopease;
 Open src/main/resources/application.properties:
 propertiesspring.datasource.url=jdbc:mysql://localhost:3306/shopease
 spring.datasource.username=root
-spring.datasource.password=YOUR_MYSQL_PASSWORD
+spring.datasource.password=MYSakshi@031
 spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
 server.port=8080
