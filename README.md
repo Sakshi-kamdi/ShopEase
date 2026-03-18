@@ -29,7 +29,7 @@ Auto table creation via Hibernate DDL
 🛠️ Tech Stack
 LayerTechnologyVersionLanguageJava21 LTSBackend FrameworkSpring Boot3.2.5ORMSpring Data JPA + Hibernate6.4.xDatabaseMySQL Community Server8.0.45FrontendHTML5, CSS3, JavaScript—Build ToolApache Maven3.9.13Embedded ServerApache Tomcat10.1.xIDEVS Code1.111.0
 
-📁 Project Structure
+*Project Structure
 ShopEase/
 ├── pom.xml
 └── src/
